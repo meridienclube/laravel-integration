@@ -1,5 +1,5 @@
 {
-    "name": "confrariaweb/laravel-integration",
+    "name": "meridienclube/laravel-integration",
     "version": "dev-master",
     "description": "Integration package for laravel",
     "keywords": [
@@ -17,9 +17,9 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "~6.0",
-        "confrariaweb/laravel-select2": "dev-master",
-        "confrariaweb/laravel-user": "dev-master",
-        "confrariaweb/laravel-vendor": "dev-master"
+        "meridienclube/laravel-select2": "dev-master",
+        "meridienclube/laravel-user": "dev-master",
+        "meridienclube/laravel-vendor": "dev-master"
     },
     "autoload": {
         "psr-4": {
